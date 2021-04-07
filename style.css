@@ -20,7 +20,7 @@ div.max-width-wrapper {
 
 section.max-width-wrapper {
   background-color: hsl(0deg, 0%, 60%);
-  border-top: 4px solid hsl(0deg, 0%, 40%);
+  border-top: 8px solid hsl(0deg, 0%, 40%);
   min-height: 65%;
 }
 
@@ -46,7 +46,7 @@ section.max-width-wrapper {
 }
 
 .card {
-  border-bottom: 4px solid hsl(0deg, 0%, 40%);
+  border-bottom: 8px solid hsl(0deg, 0%, 40%);
   background-color: hsl(0deg, 0%, 100%);
   margin: 64px auto 0;
   max-width: 580px;
@@ -61,7 +61,7 @@ section.max-width-wrapper {
   display: inline-block;
   font-size: 1.5rem;
   background-color: hsl(45deg, 100%, 50%);
-  border-bottom: 4px solid hsl(45deg, 100%, 40%);
+  border-bottom: 8px solid hsl(45deg, 100%, 40%);
   margin: 0;
   margin-left: -32px;
   padding: 16px 32px;
